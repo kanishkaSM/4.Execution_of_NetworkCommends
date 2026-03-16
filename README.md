@@ -94,6 +94,17 @@ s.close()
 ```
 
 ## Output
+server.py
+
+<img width="528" height="272" alt="Screenshot 2026-03-16 091101" src="https://github.com/user-attachments/assets/951443bf-ab85-41f9-b1a7-c48de80b6809" />
+
+client.py
+
+<img width="939" height="681" alt="Screenshot 2026-03-16 091548" src="https://github.com/user-attachments/assets/206be8a1-00c3-4e31-89a4-6b326675e115" />
+
+<img width="955" height="848" alt="Screenshot 2026-03-16 091558" src="https://github.com/user-attachments/assets/6aa5aefb-6d4c-4be4-8167-b5afaddd68ed" />
+
+
 
 ## Result
 Thus Execution of Network commands Performed 
